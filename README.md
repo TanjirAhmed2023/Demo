@@ -1,4 +1,4 @@
 # Demo
-My first Git repository
+My first Git Repository
 <br>
 Author - Tanjir Ahmed (Nuhan)
